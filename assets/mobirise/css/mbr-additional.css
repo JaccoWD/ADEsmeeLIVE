@@ -669,6 +669,9 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
+#extCountdown2-f .mbr-section-title {
+  color: #232323;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -729,6 +732,10 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box3-5 .mbr-section-title,
+#msg-box3-5 p {
+  color: #000;
 }
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
