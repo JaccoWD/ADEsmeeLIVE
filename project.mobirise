@@ -22,7 +22,9 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 16,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -41,6 +43,11 @@
             "Extension"
           ],
           "_name": "extCountdown2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "extCountdown2-f",
           "_params": {
             "paddingTop": "3",
@@ -60,12 +67,7 @@
             "showTitle": true,
             "countdown": "2018/06/07"
           },
-          "title": "Nog te gaan!",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#232323"
-            }
-          }
+          "title": "Nog te gaan!"
         },
         {
           "_inherit": "menu",
@@ -152,7 +154,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-6\">Sponors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
         },
         {
           "_tags": [
@@ -177,7 +179,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false
           },
           "media": {
@@ -198,8 +200,8 @@
               "size": 250
             }
           },
-          "title": "Ik ben Esmee",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "title": "Wie ben ik?",
+          "text": "Ik ben Esmee, ik ben 16 jaar oud en doe momenteel havo op het Dorenweerd college in Doorwerth. Ik volleybal drie keer in de week en heb daar heel veel plezier in. Via school heb ik de kans gekregen om me op te geven voor de Alpe d’HuZes. Vorig jaar twijfelde ik er al over maar ik heb het toen toch aan me voorbij laten gaan, dit jaar heb ik besloten om me toch op te geven en heb ik de eer gekregen om mee te doen. Het is natuurlijk en hele mooie kans om zo mee te kunnen doen op deze leeftijd en daar ben ik ook erg blij mee.<br><br>Ik heb besloten om mee te doen omdat ik een aantal jaar geleden iemand heb verloren aan kanker en omdat ik het hier zelf nog steeds erg moeilijk mee heb. De invloed die deze ziekte op mensen kan hebben is enorm en ik wil me daarom ook graag in wil zetten voor het KWF. Ik ga daarvoor de komende maanden zoveel mogelijk geld proberen op te halen voor het goede doel en natuurlijk keihard trainen want anders kom ik die berg niet op!&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -234,8 +236,8 @@
             "showButton": true
           },
           "title": "Wat is Alpe d'HuZes",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Klik hier voor de website van Alpe d'HuZes</a>"
+          "text": "<p>Alpe d’HuZes is een goede doelen actie waarbij mensen wandelend, hardlopend of op de fiets de Alpe d’Huez in Frankrijk zo vaak mogelijk op een dag beklimmen en hiermee zo veel mogelijk geld ophalen voor KWF Kankerbestrijding. Met de opbrengst van de actie word wetenschappelijk onderzoek naar kanker ondersteund, zodat we in de toekomst deze ziekte onder controle kunnen houden en er hopelijk niemand meer aan dood hoeft te gaan.&nbsp;</p><p>Op 6 en 7 Juni 2018 beklimmen weer duizenden mensen de ‘Oranje berg’ in Frankrijk, allemaal met hetzelfde doel. Namelijk het bestrijden van deze rotziekte waar bijna iedereen wel een keer mee in aanraking komt. Ook zijn er weer honderden vrijwilligers aan het werk op deze berg om de dagen zo goed mogelijk te laten verlopen. Laten we hopen dat we dit jaar weer een grote opbrengst zullen hebben. Opgeven is geen optie!&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.opgevenisgeenoptie.nl\" data-toolbar=\"-mbrBtnMove\">Klik hier voor de website van Alpe d'HuZes</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -265,7 +267,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showIcons": false
           },
           "title": "Acties",
@@ -278,9 +280,9 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "Flessenactie",
+          "subtitle1": "Ik haal statiegeldflessen op",
+          "caption1": "Ik heb niks om hier in te zetten",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -327,14 +329,18 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mijn-melkschud-600x315.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "title2": "Heeft u nog een idee?",
+          "subtitle2": "laat het me weten via de contactbox onderaan de pagina",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "media2_1": {
             "iconFont": {
@@ -627,7 +633,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Sponsor Pagina</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"sponsors.html\" data-toolbar=\"-mbrBtnMove\">Sponsor Pagina</a>",
           "text": "Klik hier voor mijn sponsor-pagina.",
           "title": "Sponsors"
         },
@@ -658,7 +664,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://deelnemers.opgevenisgeenoptie.nl/steun-deelnemer?ri=14806\" data-toolbar=\"-mbrBtnMove\">DONEER</a>",
-          "text": "Steun mij, en daarmij ook het KWF",
+          "text": "Steun mij, en daarbij ook het KWF",
           "title": "Doneer"
         },
         {
@@ -679,8 +685,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Auteur van website&nbsp;</strong><br>Mijn lieve neefje Jacco Hijmans heeft deze geweldige website gemaakt.<br><br><br>\n<strong>Contacts</strong><br>\nE-mail: esmeetulen@hotmail.com<br>\nPhone: +31 6 33 10 15 61<br>Instagram: esmee.tulen",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>jacco@webmans.nl</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">w</a>ww.webmans.nl</li></ul>",
+          "text1": "<strong>Auteur van website:</strong><br>Mijn lieve neefje Jacco Hijmans heeft deze geweldige website gemaakt.<br><br><br>\n<strong>Contacts</strong><br>\nE-mail: <a href=\"mailto:esmeetulen@hotmail.com\">esmeetulen@hotmail.com</a><br>WhatsApp: +31 6 33 10 15 61<br>Instagram: esmee.tulen",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mailto:jacco@webmans.nl\">jacco@webmans.nl</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">w</a>ww.webmans.nl</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "esmeetulen@hotmail.com",
@@ -804,7 +810,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-6\">Sponors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
         },
         {
           "_tags": [
@@ -845,6 +851,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "2",
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -854,11 +864,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "count": "2",
-            "showImages": true,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "Mijn sponsors",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
