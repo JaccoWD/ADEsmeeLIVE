@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alped'HuFles",
-    "currentPage": "index.html",
+    "currentPage": "sponsors.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,9 +30,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Esmee doet mee! Alpe d'HuZes 2018",
+        "meta_descr": "Dit is de informatiepagina van Esmee die meedoet aan Alpe d'HuZes 2018",
+        "header_custom": "<meta name=\"keywords\" content=\"Esmee, doet, mee, Alpe d'HuZes, 2018, Alpe d'Huez, sponsor, sponsors, doneer, donatie, donaties, acties, flessen, statiegeld, statiegeld flessen, KWF, kanker, geld inzamelen, dorenweerd, doorwerth\" >",
         "footer_custom": "",
         "html_before": ""
       },
@@ -154,7 +154,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponsors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
         },
         {
           "_tags": [
@@ -186,7 +186,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/esmme-heeft-frag-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -201,7 +205,7 @@
             }
           },
           "title": "Wie ben ik?",
-          "text": "Ik ben Esmee, ik ben 16 jaar oud en doe momenteel havo op het Dorenweerd college in Doorwerth. Ik volleybal drie keer in de week en heb daar heel veel plezier in. Via school heb ik de kans gekregen om me op te geven voor de Alpe d’HuZes. Vorig jaar twijfelde ik er al over maar ik heb het toen toch aan me voorbij laten gaan, dit jaar heb ik besloten om me toch op te geven en heb ik de eer gekregen om mee te doen. Het is natuurlijk en hele mooie kans om zo mee te kunnen doen op deze leeftijd en daar ben ik ook erg blij mee.<br><br>Ik heb besloten om mee te doen omdat ik een aantal jaar geleden iemand heb verloren aan kanker en omdat ik het hier zelf nog steeds erg moeilijk mee heb. De invloed die deze ziekte op mensen kan hebben is enorm en ik wil me daarom ook graag in wil zetten voor het KWF. Ik ga daarvoor de komende maanden zoveel mogelijk geld proberen op te halen voor het goede doel en natuurlijk keihard trainen want anders kom ik die berg niet op!&nbsp;<br>",
+          "text": "Ik ben Esmee, ik ben 16 jaar oud en doe momenteel havo op het Dorenweerd college in Doorwerth. Ik volleybal drie keer in de week en heb daar heel veel plezier in. Via school heb ik de kans gekregen om me op te geven voor de Alpe d’HuZes. Vorig jaar twijfelde ik er al over, maar ik heb het toen toch aan me voorbij laten gaan. Dit jaar heb ik besloten om me toch op te geven en heb ik de eer gekregen om mee te mogen doen. Het is natuurlijk en hele mooie kans om zo mee te kunnen doen op deze leeftijd en daar ben ik ook erg blij mee.<br><br>Ik heb besloten om mee te doen omdat ik een aantal jaar geleden iemand heb verloren aan kanker en omdat ik het hier zelf nog steeds erg moeilijk mee heb. De invloed die deze ziekte op mensen kan hebben is enorm en ik wil me daarom ook graag inzetten voor het KWF. Ik ga daarvoor de komende maanden zoveel mogelijk geld proberen op te halen voor het goede doel en natuurlijk keihard trainen want anders kom ik die berg niet op!&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -274,10 +278,14 @@
           "subtitle": "Dit zijn al mijn lopende acties om geld in te zamelen",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/apple-imac-ipad-workplace.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bleh2-600x352.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Flessenactie",
@@ -631,9 +639,9 @@
             "inverse": false,
             "showButtons": true,
             "showText": true,
-            "showTitle": true
+            "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"sponsors.html\" data-toolbar=\"-mbrBtnMove\">Sponsor Pagina</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"sponsors.html\" data-toolbar=\"-mbrBtnMove\">Sponsors</a>",
           "text": "Klik hier voor mijn sponsor-pagina.",
           "title": "Sponsors"
         },
@@ -644,7 +652,7 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-e",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -661,11 +669,11 @@
             "inverse": false,
             "showButtons": true,
             "showText": true,
-            "showTitle": true
+            "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://deelnemers.opgevenisgeenoptie.nl/steun-deelnemer?ri=14806\" data-toolbar=\"-mbrBtnMove\">DONEER</a>",
-          "text": "Steun mij, en daarbij ook het KWF",
-          "title": "Doneer"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://deelnemers.opgevenisgeenoptie.nl/steun-deelnemer?ri=14806\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Doneer</a>",
+          "text": "Klik hier om te doneren.",
+          "title": ""
         },
         {
           "_tags": [
@@ -674,8 +682,8 @@
           "_name": "contacts4",
           "_anchor": "contacts4-d",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -685,11 +693,11 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Auteur van website:</strong><br>Mijn lieve neefje Jacco Hijmans heeft deze geweldige website gemaakt.<br><br><br>\n<strong>Contacts</strong><br>\nE-mail: <a href=\"mailto:esmeetulen@hotmail.com\">esmeetulen@hotmail.com</a><br>WhatsApp: +31 6 33 10 15 61<br>Instagram: esmee.tulen",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mailto:jacco@webmans.nl\">jacco@webmans.nl</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">w</a>ww.webmans.nl</li></ul>",
+          "text1": "<p><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contact</span><br>\nE-mail: <a href=\"mailto:info@esmeedoetmee.nl\">info@esmeedoetmee.nl</a><a href=\"mailto:esmeetulen@hotmail.com\"></a><br>WhatsApp: +31 6 33 10 15 61<br>Instagram: esmee.tulen</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Maker van website &lt;3</b></span></font></p><ul class=\"mbr-contacts__list\"><li><a href=\"mailto:jacco@webmans.nl\">jacco@webmans.nl</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "esmeetulen@hotmail.com",
+            "action": "info@esmeedoetmee.nl",
             "alerts": {
               "success": "Bedankt voor je bericht!"
             },
@@ -711,18 +719,19 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Bericht"
+                "customTitle": "Typ hier je bericht:"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Verzend<br></a>"
         }
       ]
     },
     "sponsors.html": {
       "settings": {
-        "title": "Web Site Generator Title",
-        "meta_descr": "Web Site Generator Description"
+        "title": "Esmee doet mee! Sponsor pagina",
+        "meta_descr": "Dit is de sponsorpagina van Esmee die meedoet aan Alpe d'HuZes 2018",
+        "header_custom": "<meta name=\"keywords\" content=\"Esmee, doet, mee, Alpe d'HuZes, 2018, Alpe d'Huez, sponsor, sponsors, doneer, donatie, donaties, acties, flessen, statiegeld, statiegeld flessen, KWF, kanker, geld inzamelen, dorenweerd, doorwerth\" >"
       },
       "components": [
         {
@@ -810,7 +819,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponsors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
         },
         {
           "_tags": [
@@ -819,31 +828,39 @@
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>“Ik wens je ontzettend veel succes met je actie! En ik hoop dat je je doel bereikt.” - Jacco</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/img-2212-2-140x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
+              "authorName": "Jacco",
+              "authorBio": "Webmans"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "...",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/esmme-heeft-frag-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Suffian A.",
+              "authorName": "U?",
               "authorBio": "User"
             }
           ],
