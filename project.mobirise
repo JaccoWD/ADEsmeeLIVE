@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alped'HuFles",
-    "currentPage": "sponsors.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -154,7 +154,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponsors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-e\">Doneer</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-3\">Wie ben ik?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-5\">Wat is Alpe d'HuZes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-8\">Mijn acties</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsors.html\">Sponsors</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://deelnemers.opgevenisgeenoptie.nl/steun-deelnemer?ri=14806\" target=\"_blank\">Doneer</a></li>"
         },
         {
           "_tags": [
@@ -204,7 +204,7 @@
               "size": 250
             }
           },
-          "title": "Wie ben ik?",
+          "title": "Ik ben esmee en ik fiets mee",
           "text": "Ik ben Esmee, ik ben 16 jaar oud en doe momenteel havo op het Dorenweerd college in Doorwerth. Ik volleybal drie keer in de week en heb daar heel veel plezier in. Via school heb ik de kans gekregen om me op te geven voor de Alpe d’HuZes. Vorig jaar twijfelde ik er al over, maar ik heb het toen toch aan me voorbij laten gaan. Dit jaar heb ik besloten om me toch op te geven en heb ik de eer gekregen om mee te mogen doen. Het is natuurlijk en hele mooie kans om zo mee te kunnen doen op deze leeftijd en daar ben ik ook erg blij mee.<br><br>Ik heb besloten om mee te doen omdat ik een aantal jaar geleden iemand heb verloren aan kanker en omdat ik het hier zelf nog steeds erg moeilijk mee heb. De invloed die deze ziekte op mensen kan hebben is enorm en ik wil me daarom ook graag inzetten voor het KWF. Ik ga daarvoor de komende maanden zoveel mogelijk geld proberen op te halen voor het goede doel en natuurlijk keihard trainen want anders kom ik die berg niet op!&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -239,7 +239,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "Wat is Alpe d'HuZes",
+          "title": "Wat is Alpe d'HuZes?",
           "text": "<p>Alpe d’HuZes is een goede doelen actie waarbij mensen wandelend, hardlopend of op de fiets de Alpe d’Huez in Frankrijk zo vaak mogelijk op een dag beklimmen en hiermee zo veel mogelijk geld ophalen voor KWF Kankerbestrijding. Met de opbrengst van de actie word wetenschappelijk onderzoek naar kanker ondersteund, zodat we in de toekomst deze ziekte onder controle kunnen houden en er hopelijk niemand meer aan dood hoeft te gaan.&nbsp;</p><p>Op 6 en 7 Juni 2018 beklimmen weer duizenden mensen de ‘Oranje berg’ in Frankrijk, allemaal met hetzelfde doel. Namelijk het bestrijden van deze rotziekte waar bijna iedereen wel een keer mee in aanraking komt. Ook zijn er weer honderden vrijwilligers aan het werk op deze berg om de dagen zo goed mogelijk te laten verlopen. Laten we hopen dat we dit jaar weer een grote opbrengst zullen hebben. Opgeven is geen optie!&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.opgevenisgeenoptie.nl\" data-toolbar=\"-mbrBtnMove\">Klik hier voor de website van Alpe d'HuZes</a>"
         },
@@ -289,7 +289,7 @@
             }
           },
           "title1": "Flessenactie",
-          "subtitle1": "Ik haal statiegeldflessen op",
+          "subtitle1": "Ik haal elke zaterdag bij mij in de buurt satiegeld flessen op. De opbrengst tot nu toe is: €25,-.",
           "caption1": "Ik heb niks om hier in te zetten",
           "media1_1": {
             "iconFont": {
@@ -347,8 +347,8 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Heeft u nog een idee?",
-          "subtitle2": "laat het me weten via de contactbox onderaan de pagina",
+          "title2": "Koekjes verkopen",
+          "subtitle2": "Wij verkopen met het hele team koekjes en cake op het Dorenweerd College tijdens de opendagen en avonden.",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "media2_1": {
             "iconFont": {
@@ -653,7 +653,7 @@
           "_anchor": "msg-box1-e",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
