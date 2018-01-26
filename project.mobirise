@@ -186,7 +186,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/esmme-heeft-frag-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/main-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -251,8 +251,8 @@
           "_name": "extFeatures7",
           "_anchor": "extFeatures7-8",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
@@ -268,7 +268,7 @@
             "showTitle": true,
             "showSubtitle": true,
             "columns": "2",
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
@@ -278,7 +278,7 @@
           "subtitle": "Dit zijn al mijn lopende acties om geld in te zamelen",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bleh2-600x352.jpg",
+              "src": "@PROJECT_PATH@/assets/images/flessen-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -289,7 +289,7 @@
             }
           },
           "title1": "Flessenactie",
-          "subtitle1": "Ik haal elke zaterdag bij mij in de buurt satiegeld flessen op. De opbrengst tot nu toe is: €25,-.",
+          "subtitle1": "Ik haal elke zaterdag bij mij in de buurt statiegeld flessen op. De opbrengst tot nu toe is: €25,-.",
           "caption1": "Ik heb niks om hier in te zetten",
           "media1_1": {
             "iconFont": {
@@ -337,7 +337,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mijn-melkschud-600x315.png",
+              "src": "@PROJECT_PATH@/assets/images/mijn%20melkschud-600x315.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -831,7 +831,7 @@
               "text": "<p>“Ik wens je ontzettend veel succes met je actie! En ik hoop dat je je doel bereikt.” - Jacco</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-2212-2-140x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/dsc02131-square-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -849,7 +849,7 @@
               "text": "...",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/esmme-heeft-frag-160x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/vn-160x79.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -860,7 +860,25 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "U?",
+              "authorName": "Vloerverwarming Nederland.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>\"Triple A heeft mij voor 500 gesponsord, heel erg bedankt!\"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/triple-a-png-160x67.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Triple A.",
               "authorBio": "User"
             }
           ],
@@ -868,7 +886,7 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "count": "2",
+            "count": "3",
             "showImages": true,
             "showName": true,
             "showBio": false,
