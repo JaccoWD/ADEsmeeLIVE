@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alped'HuFles",
-    "currentPage": "index.html",
+    "currentPage": "sponsors.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -163,7 +163,7 @@
           "_name": "header2",
           "_anchor": "header2-3",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "46",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mooiste-bergje-2000x1333.jpg",
@@ -186,7 +186,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/main-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/main2-1400x1866.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -204,7 +204,7 @@
               "size": 250
             }
           },
-          "title": "Ik ben esmee en ik fiets mee",
+          "title": "Ik ben Esmee en ik fiets mee",
           "text": "Ik ben Esmee, ik ben 16 jaar oud en doe momenteel havo op het Dorenweerd college in Doorwerth. Ik volleybal drie keer in de week en heb daar heel veel plezier in. Via school heb ik de kans gekregen om me op te geven voor de Alpe d’HuZes. Vorig jaar twijfelde ik er al over, maar ik heb het toen toch aan me voorbij laten gaan. Dit jaar heb ik besloten om me toch op te geven en heb ik de eer gekregen om mee te mogen doen. Het is natuurlijk en hele mooie kans om zo mee te kunnen doen op deze leeftijd en daar ben ik ook erg blij mee.<br><br>Ik heb besloten om mee te doen omdat ik een aantal jaar geleden iemand heb verloren aan kanker en omdat ik het hier zelf nog steeds erg moeilijk mee heb. De invloed die deze ziekte op mensen kan hebben is enorm en ik wil me daarom ook graag inzetten voor het KWF. Ik ga daarvoor de komende maanden zoveel mogelijk geld proberen op te halen voor het goede doel en natuurlijk keihard trainen want anders kom ik die berg niet op!&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -849,33 +849,33 @@
               "text": "...",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/vn-160x79.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/vn2-160x160.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "www.vloerverwarmingnederland.com",
                   "alt": "",
                   "title": "",
-                  "linkInNewWindow": false
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "Vloerverwarming Nederland.",
+              "authorName": "Vloerverwarming Nederland",
               "authorBio": "User"
             },
             {
-              "text": "<p>\"Triple A heeft mij voor 500 gesponsord, heel erg bedankt!\"</p>",
+              "text": "<p>\"Triple A heeft mij voor €500 gesponsord, heel erg bedankt!\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/triple-a-png-160x67.png",
+                  "src": "@PROJECT_PATH@/assets/images/triple-a-png2-160x160.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://tripleaverwarming.nl/",
                   "alt": "",
                   "title": "",
-                  "linkInNewWindow": false
+                  "linkInNewWindow": true
                 }
               },
               "authorName": "Triple A.",
